@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
 import PageNotFoundImage from "../assets/404.gif"
-import { Button } from "../Components/Button"
 import { useTitle } from "../hooks/useTitle";
 
 export const PageNotFound = ({title}) => {
 
+  // eslint-disable-next-line
   const pageTitle= useTitle(title);
 
   return (
