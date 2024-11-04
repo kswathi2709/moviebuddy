@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+main{
+    max-width: 1700px;
+    min-height: 90vh ;
+    margin: auto;
+    padding: 10px;
+
+    background: #FC5C7D;   
+    background: -webkit-linear-gradient(to bottom, #6A82FB, #FC5C7D); 
+    background: linear-gradient(to bottom, #6A82FB, #FC5C7D); 
+
+   
+    
+
+
+    
+    
+}
